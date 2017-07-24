@@ -3,6 +3,7 @@ Problems are stated bellow.
 
 01.
 Vowely Words
+
 Shanu likes to make words. She likes to find Vowely Words from Novels. If word has even number of total vowel letters (a,e,i,o,u) and vowel letter count is less than or equal square root of total character count then only it is named as Vowely Word.
 
 First line input has T number of test queries For each T lines there is a word
@@ -20,6 +21,7 @@ T is 2 therefore there will be 2 words wow - vowel count is odd. We print NO lov
 
 02.
 Word Counter
+
 Print the number of words in a given paragraph
 
 Assumptions
@@ -33,6 +35,7 @@ SAMPLE OUTPUT
 
 03.
 Fightclub mails
+
 Sandu is the captain of Fightclub which is association of girls for women rights. She developed a system for new member registration using new programming language ballerina by WSO2. Suppose she hired you to her association as software engineer to build email validator,
 
 Fight club email validation has these constrains
@@ -70,6 +73,7 @@ sonia6@fightclub.com passed all constraints then we print VALID am@fightclub2.lk
 
 04.
 Help the knight
+
 (From previous DeftCoder event) Only a black knight is remaining on the chess board No other pieces... Does Knight would be able to find his shortest path to the destination ? It's on your hand... you have to find minimum number of moves he can take to reach the destination.... Please note that cordinates are from top left conor is (0,0) and bottom right conor is (7,7)...
 
 Input Format : source cordinates. two numbers within brackets. these brackets could any type '[]', '<>'
@@ -87,6 +91,7 @@ SAMPLE OUTPUT
 
 05.
 Binary Stream to Text
+
 A system is needed to be developed to read a stream of bits and converts each read 8 bits at a time into text .
 
 The number of bit streams to read is given in the first line of the input
@@ -103,6 +108,7 @@ lu
 
 06.
 Missing Radius
+
 Kamalawathi is 3rd year student of CUSC University of Negombo. She is doing research to find radius of cross section of PVC pipe(Assume it is perfect cirlcle). She converts captured image to N X N square Grid. # character represents the PVC pipe portion and . character represents background. Always the center of circle falls in to middle of grid.
 
 You are given the grid and find the integer radius of PVC pipe cross section
@@ -138,8 +144,9 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 5
 
-08.
+07.
 Adam Numbers
+
 Find whether the given number is an Adam Number or not. Adam number is a number when reversed, the square of the number and the square of the reversed number should be numbers which are reverse of each other.
 
 SAMPLE INPUT 
@@ -147,8 +154,9 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 yes
 
-09.
+08.
 Nadun and Fruits
+
 Nature's candy corner is a famous fruit shop. Because of the festival season they have decided to launch a promotion. They have N fruits and let their weights be represents as w1,w2,w3,....,wN. Each fruit costs 1 unit and when a customer has a fruit with weight wX, then he can get all other fruits whose weight lies between [wX,wX+4] (both inclusive) for free.
 
 Help Nadun who is a cunning fruit seller, trying to buy all fruits with minimum units
@@ -175,8 +183,9 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 3
 
-10.
+09.
 Coconunt Cars
+
 Amaya Constructions ltd is doing project in Badulla to help farmers by making cabel car tracks between large coconut trees.
 
 Each coconut tree is indexed from 1 to N. Company will make M cables between different trees.
@@ -208,8 +217,9 @@ SAMPLE OUTPUT
 NO
 YES
 
-11.
+10.
 Birthday Cake Candles
+
 Colleen is turning n years old! Therefore, she has n candles of various heights on her cake, and candle i has height height. Because the taller candles tower over the shorter ones, Colleen can only blow out the tallest candles.
 
 Given the height for each individual candle, find and print the number of candles she can successfully blow out.
@@ -230,8 +240,9 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 2
 
-12.
+11.
 Soma's Cards
+
 Soma is learning Soft wear design in University of Slip. She is playing a game as per below steps.
 
 She has N cards There is a number in both sides of a card (when they are in table only one side is visible). Each turn She can turn any cards at a time or do nothing. Once a round completes she sums all visible numbers and record it.
@@ -275,8 +286,9 @@ SAMPLE OUTPUT
 22
 29 ['No Turn', 'Turn', 'Turn', 'Turn']
 
-13.
+12.
 Substring palindrome
+
 Task is to find the length of the longest Palindrome which is consists of substring of a given string. Ex :- let's say the string is "isgoodgood" the palindrome which is formed by substring could be (good)(is)(good).
 
 SAMPLE INPUT 
@@ -284,8 +296,9 @@ ghiabcdefhelloadamhelloabcdefghi
 SAMPLE OUTPUT 
 7
 
-14.
+13.
 Goodland Electricity
+
 Goodland is a country with n cities, and each city Ci is sequentially numbered from 0 to n-1. These cities are connected by n-1 roads, and each road connects Ci city to its neighboring city,Ci+1 . The distance between any two cities Ci and Cj is |i-j|.
 
 Goodland's government started a project to improve the country's infrastructure and bring electricity to its citizens. It built at most one electrical tower in every city, but they haven't turned any of them on yet. Once switched on, each tower produces enough power to provide electricity to all neighboring cities at a distance <k from the tower.
